@@ -8,6 +8,6 @@ Universidad Miguel Hernandez Elche.
 
 Cualquier bug se puede indicar en diegojuarez_13@hotmail.com.
 # Practicas
- * Juego siete y medio.
- * Tienda virtual.
+ * Juego siete y medio. :heavy_check_mark:
+ * Tienda virtual. :heavy_check_mark:
 
